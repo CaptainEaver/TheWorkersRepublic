@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://theworkersrepublic.com/sitemap.xml
